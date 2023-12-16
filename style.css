@@ -3,6 +3,7 @@
 @import "blog.css";
 @import "about.css";
 @import "contact.css";
+@import "cart.css";
 
 *{
   margin: 0;
